@@ -17,7 +17,7 @@ This project is a simple **Rock, Paper, Scissors** game implemented using Python
 ## 🚀 Installation & Usage
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Rock-Paper-Scissors.git
+git clone https://github.com/Sahad-Ai/Rock-Paper-Scissors.git
 ```
 ### 2️⃣ Install Dependencies
 This game runs on **Python 3**. Ensure Python is installed in your system.
