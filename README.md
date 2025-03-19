@@ -1,7 +1,3 @@
-Here is a **README.md** file for your **Rock, Paper, Scissors** project, which you can add to your GitHub repository:
-
----
-
 # ✊✋✌ Rock, Paper, Scissors Game
 
 ## 📌 Project Overview
